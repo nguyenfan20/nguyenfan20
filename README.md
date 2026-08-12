@@ -1,12 +1,16 @@
 <div align="center">
 
 <!-- Header -->
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=200&section=header&text=Nguyen%20Fan%20%F0%9F%91%8B&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"
+  width="100%"
+  alt="Header"
+/>
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=003366&height=200&section=header&text=Hi,%20I'm%20Nguyen%20Fan%20👋&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" alt="header" />
-
-<!-- Typing Effect -->
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=87CEEB&center=true&vCenter=true&width=600&lines=Information+Technology+Student;AI%2FML+%26+Software+Developer;Building+AI+%26+LLM+Applications;Love+Coding+in+Blue+💙" alt="Typing SVG" />
+<img
+  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=87CEEB&center=true&vCenter=true&width=650&lines=Information+Technology+Student;AI%2FML+%26+Software+Developer;Building+AI+%26+LLM+Applications;Love+Coding+in+Blue+%F0%9F%92%99"
+  alt="Typing SVG"
+/>
 
 </div>
 
@@ -64,16 +68,27 @@
 
 <div align="center">
 
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=nguyenfan20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=87CEEB&icon_color=38BDF8&text_color=FFFFFF" />
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=nguyenfan20&show_icons=true&hide_border=true&bg_color=0D1117&title_color=87CEEB&icon_color=38BDF8&text_color=FFFFFF"
+  alt="GitHub Stats"
+/>
 
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenfan20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=87CEEB&text_color=FFFFFF" />
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenfan20&layout=compact&hide_border=true&bg_color=0D1117&title_color=87CEEB&text_color=FFFFFF"
+  alt="Top Languages"
+/>
 
-<br />
+<br><br>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenfan20&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=87CEEB&currStreakLabel=87CEEB&sideNums=FFFFFF" />
+<img
+  width="70%"
+  src="https://streak-stats.demolab.com/?user=nguyenfan20&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=87CEEB&currStreakLabel=87CEEB&sideNums=FFFFFF"
+  alt="GitHub Streak"
+/>
 
 </div>
-
 ---
 
 ## 🐍 My Contribution Snake
