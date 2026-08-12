@@ -70,25 +70,26 @@
 
 <img
   height="180"
-  src="https://github-readme-stats.vercel.app/api?username=nguyenfan20&show_icons=true&hide_border=true&bg_color=0D1117&title_color=87CEEB&icon_color=38BDF8&text_color=FFFFFF"
+  src="./profile/stats.svg"
   alt="GitHub Stats"
 />
 
 <img
   height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenfan20&layout=compact&hide_border=true&bg_color=0D1117&title_color=87CEEB&text_color=FFFFFF"
+  src="./profile/top-langs.svg"
   alt="Top Languages"
 />
 
-<br><br>
+<br>
 
 <img
   width="70%"
-  src="https://streak-stats.demolab.com/?user=nguyenfan20&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=87CEEB&currStreakLabel=87CEEB&sideNums=FFFFFF"
+  src="./profile/streak.svg"
   alt="GitHub Streak"
 />
 
 </div>
+
 ---
 
 ## 🐍 My Contribution Snake
