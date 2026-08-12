@@ -124,6 +124,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=003366&height=100&section=footer" width="100%" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=100&section=footer"
+  width="100%"
+  alt="Footer"
+/>
 
 </div>
