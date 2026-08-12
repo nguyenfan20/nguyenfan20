@@ -59,9 +59,11 @@
 ### 📫 Connect with me
 
 <p align="center">
-<a href="nguyenphan201203@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.facebook.com/nguyenfan2012"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/nguyen-fan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="nguyenphan201203@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://www.facebook.com/nguyenfan2012"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nguyen-fan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/render?type=waving&color=003366&height=100&section=footer" width="100%" />
+
+</div>
